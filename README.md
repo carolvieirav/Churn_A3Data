@@ -5,9 +5,8 @@
 Este repositório contém a solução desenvolvida para o **Desafio Técnico de Ciência de Dados da A3Data**. O objetivo do projeto é analisar uma base de clientes de uma empresa de telecomunicações, entender os motores do cancelamento (churn) e propor estratégias acionáveis de retenção.
 
 ## 🎯 O Problema de Negócio
-A empresa de telecomunicações enfrenta um cenário de churn elevado. O principal desafio financeiro é que o produto principal (Internet via Fibra Óptica) possui um **alto custo de setup (instalação)**. 
-
-Isso significa que clientes que cancelam o serviço precocemente (antes do *payback* do custo de instalação) geram prejuízo direto. A missão deste projeto é encontrar onde o sangramento está ocorrendo e propor testes e estratégias para estancá-lo, priorizando a saúde financeira da empresa.
+A empresa de telecomunicações enfrenta um cenário de churn elevado. Uma uma vez que estamos falando de um produto
+com custo elevado de setup (instalação), a empresa gostaria de uma estratégia para reduzir esse churn.
 
 ## 🧠 Abordagem e Metodologia
 Em vez de focar apenas em métricas estatísticas isoladas, este projeto adota uma abordagem orientada a impacto:
